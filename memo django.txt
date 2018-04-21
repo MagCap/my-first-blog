@@ -1,0 +1,9 @@
+Pour démarrer tout:
+
+Ouvrir l'invite de commandes de windows et aller dans le dossier djangogirls_V3
+Démarrer le virtual env
+myvenv\Scripts\activate
+Lancer le serveur
+python manage.py runserver 0:8000
+Se connester à Django admin
+http:/127.0.0.1:8000/admin/
